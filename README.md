@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UV72
-- 👀 I’m interested in Java, Android
+- 👀 I’m interested in Java, Ktlin, Android
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: yuvrajbhadoriya20@gmail.com
