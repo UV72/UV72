@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UV72
-- 👀 I’m interested in Java, Kotlin, Android
+- 👀 I’m interested in Java, Python, Kotlin, Android, Machine Learning, Deep Learning
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: yuvrajbhadoriya20@gmail.com
 
